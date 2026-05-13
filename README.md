@@ -77,7 +77,7 @@ React 프론트엔드 연동, JWT 인증, 소셜 로그인, 알림 처리 흐름
 ## Contact
 
 - GitHub: [ohs9062-max](https://github.com/ohs9062-max)
-- Email: 이메일 주소 입력
+- Email: ohs9062@gmail.com
 
 #### Repository
-- [Carefull 바로가기](https://github.com/ohs9062-max/carefull)
+- [Carefull 바로가기](https://github.com/ohs9062-max/Carefull_ohs9062)
